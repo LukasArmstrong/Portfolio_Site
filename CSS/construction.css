@@ -1,0 +1,19 @@
+
+/* Modal Content/Box */
+.con-modal-fullWidth{
+  width: 100vw;
+}
+.modal-stripes{
+  background: repeating-linear-gradient(-45deg, yellow, yellow 15px, black 15px, black 30px);
+}
+.con-text{
+  color: Black;
+  margin: auto;
+  font-size: 23px;
+  background: yellow;
+  border-style: solid;
+  border-color: black;
+}
+.con-modal-flex{
+  display: flex;
+}
